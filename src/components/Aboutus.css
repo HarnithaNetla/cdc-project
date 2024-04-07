@@ -1,0 +1,73 @@
+.aboutt {
+  background-image: url('/src/components/image/bgimgstk.avif');
+  background-size: cover;
+}
+
+.aboutt h1 {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 1%;
+
+}
+
+
+
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer div {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+
+footer h3 {
+  color: rgb(255, 219, 219);
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; /* Adjust margin to remove extra space */
+}
+
+footer ul li {
+  margin-bottom: 5px;
+}
+
+footer ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer ul li a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+footer p {
+  margin: 5px 0;
+}
+
+
+.copyrights a {
+  color: blanchedalmond;
+  text-decoration: none;
+}
+
+
+.copyrights a:hover {
+  color: rgb(251, 224, 183);
+  text-decoration: underline;
+}

@@ -1,0 +1,25 @@
+
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid rgb(138, 138, 138);
+    margin-left: 160px;
+    background-image: url('/src/components/image/bgimg1.webp');
+    background-size: cover;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #e0baba;
+    border-bottom: 1px solid rgb(142, 142, 142);
+  }
+  
+  tr:hover {
+    background-color: #b5b5b5;
+  }
+  

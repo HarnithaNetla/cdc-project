@@ -1,0 +1,46 @@
+.devs{
+    background: url(./image/gradbg.jpeg);
+    background-size: cover;
+}
+
+
+.top-images {
+    
+    display: flex;
+    margin-left: 450px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .bottom-images {
+    display: flex;
+    margin-left: 200px;
+  }
+  
+  .image-item {
+    margin-top: 50px;
+    text-align: center;
+    transition: box-shadow 0.8s; 
+    transition: background-color 5.8s;
+  }
+  .image-item:hover {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgb(245, 233, 233) ;
+    opacity: 90%;
+
+  }
+  
+  .card-content {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .card-image {
+    width: 180px;
+  }
+  
+  .card-title,
+  .card-description {
+    margin: 5px 0;
+  }
+  

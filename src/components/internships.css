@@ -1,0 +1,62 @@
+.j{
+    border-radius: 20px;
+    border: black solid;
+    margin-right: 100px;
+}
+.m{
+    border-radius: 20px;
+    border: black solid;
+    margin-right: 21px;
+}
+.n{
+    border-radius: 20px;
+    border: black solid;
+    margin-left: 100px;
+    width: 185px;
+}
+
+
+.l{
+    border-radius: 20px;
+    border: black solid;
+    
+}
+.z{
+    border-radius: 20px;
+    border: black solid;
+    margin-right: 100px;
+    width: 350px;
+    margin-left: 100px;
+}
+.y{
+    border-radius: 20px;
+    border: black solid;
+    width: 350px;
+}
+
+.x{
+    border-radius: 20px;
+    border: black solid;
+    margin-right: 100px;
+    width: 300px;
+    
+}
+.w{
+    border-radius: 20px;
+    border: black solid;
+    
+    width: 150px;
+}
+
+.k{
+    border-radius: 20px;
+    border: black solid;
+    margin-right: 100px;
+   
+}
+.interns marquee{
+    background-color:darkgray;
+}
+.interns H1{
+    background-color: cadetblue;
+}

@@ -1,0 +1,66 @@
+.card {
+    display: flexbox ;
+    float: left;
+    position: relative;
+    margin-left: 130px;
+    align-items: center;
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 5px;
+    overflow: hidden;
+    width: 500px; 
+    background-color: rgb(213, 213, 213);
+  }
+  
+  .card-image {
+    width: 200px; 
+  }
+  
+
+  .card-image-python {
+    width: 130px; 
+  }
+  .card-image-tableau {
+    width: 150px; 
+  }
+
+  .card-image-hacking{
+    width: 150px;
+  }
+  
+  .card-content {
+    padding: 10px;
+  }
+  
+  .card-title {
+    margin: 0;
+  }
+  
+  .card-description {
+    margin: 0;
+  }
+  .iot{
+    width: 43%;
+    border:rgb(49, 49, 49) solid;
+    transition: box-shadow 0.3s; 
+    
+
+  }
+
+  .iot:hover{
+    box-shadow: 0 0 10px 25px rgba(255, 114, 114, 0.3);
+  }
+
+
+  .aap{
+    margin-left: 2%;
+    width: 30%;
+    border:rgb(49, 49, 49) solid;
+
+  }
+
+  .aap:hover{
+    box-shadow: 0 0 10px 25px rgba(255, 128, 128, 0.3);
+  }
+
+
+ 
