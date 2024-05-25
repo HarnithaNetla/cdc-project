@@ -1,6 +1,6 @@
-#It is a group project done eith in a time span of 24 hours
+It is a group project done eith in a time span of 24 hours
 
-#Teammates:
+Teammates:
 
       Yaswanth.K              -  21X51A3820
       
